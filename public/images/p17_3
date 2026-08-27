@@ -1,0 +1,1694 @@
+                        <!DOCTYPE html>
+<html lang="en-GB" dir="ltr">
+        
+<head>
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+
+        
+            
+         <meta charset="utf-8" />
+	<base href="https://bugussobox.com/" />
+	<meta name="keywords" content="รับผลิต, รับทำ, กล่องจั่วปัง, พรีเมียม" />
+	<meta name="rights" content="bugussobox" />
+	<meta name="robots" content="index, follow" />
+	<meta name="description" content="Bugussobox ผู้ผลิตกล่องจั่วปังพรีเมียม รับทำกล่องจั่วปังทุกรูปแบบ" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Bugussobox รับผลิตกล่องจั่วปังพรีเมียม - กล่องจั่วปังสั่งทำคุณภาพสูง</title>
+	<link href="/templates/rt_notio/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/rokbox/assets/styles/rokbox.css" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/lightcase.css" rel="stylesheet" />
+	<link href="/templates/rt_notio/custom/uikit/css/uikit.min.css" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
+	<link href="/templates/rt_notio/custom/css-compiled/notio_17.css" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/templates/rt_notio/custom/css-compiled/notio-joomla_17.css" rel="stylesheet" />
+	<link href="/templates/rt_notio/custom/css-compiled/custom_17.css" rel="stylesheet" />
+	<link href="/templates/rt_notio/css/animate.css" rel="stylesheet" />
+	<style>
+
+            .headroom-bg-custom.headroom--not-top.headroom--pinned,
+            .headroom-bg-custom.headroom--not-top.headroom--unpinned,
+            .headroom-bg-custom.headroom--not-top.headroom--unpinned-autohide {
+                background: #ffffff !important;
+            }
+        html {
+  scroll-behavior: smooth;
+}
+
+#Btn {
+  display: none;
+  position: fixed;
+  bottom: 21px;
+  right: 25px;
+  z-index: 99;
+  font-size: 24px;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  box-shadow: 0 2px 2px 1px rgba(0,0,0,0.24);
+  cursor: pointer;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  opacity: 1;
+  animation-name: fadeOpacity;
+  animation-iteration-count: 1;
+  animation-duration: .7s;
+}
+
+@keyframes fadeOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+#Btn:hover {
+  box-shadow: 0 5px 5px 2px rgba(0,0,0,0.24);
+  transform:scale(1.1,1.1) translate3d(0,0,0);
+  transition: 0.3s ease-in-out;
+}.iconbtn {
+  border-radius: 50%;
+  opacity: 1;
+  transition: 0.3s;
+  margin: 20px 5px;
+}
+
+.iconbtn:hover {
+  opacity: 0.7;
+  box-shadow: 0 2px 2px 1px 
+  rgba(0,0,0,0.24);
+  transform:scale(1.2,1.2) translate3d(0,0,0);
+}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"369e4d276c751065705e8ffb3c89c124","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/system/js/mootools-core.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/media/system/js/core.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/media/system/js/mootools-more.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/plugins/system/rokbox/assets/js/rokbox.js"></script>
+	<script src="/media/jui/js/jquery.min.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?be54e66f7dbb11f1c081c23521ad0f1a"></script>
+	<script src="/templates/rt_notio/js/headroom.min.js"></script>
+	<script>
+if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+if (document.body.scrollTop > 40 || document.documentElement.scrollTop > 40) {
+document.getElementById("Btn").style.display = "block";
+  } else {
+document.getElementById("Btn").style.display = "none";
+  }
+}
+
+function topFunction() {
+document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0;
+}
+	</script>
+	<!-- Joomla Facebook Integration Begin -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '722487945232284', {}, {agent: 'pljoomla'});
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=722487945232284&ev=PageView&noscript=1"/>
+</noscript>
+<!-- DO NOT MODIFY -->
+<!-- Joomla Facebook Integration end -->
+
+    
+                    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KGZ27CN');</script>
+<!-- End Google Tag Manager -->
+
+<!-- LINE Tag Base Code -->
+<!-- Do Not Modify -->
+<script>
+(function(g,d,o){
+  g._ltq=g._ltq||[];g._lt=g._lt||function(){g._ltq.push(arguments)};
+  var h=location.protocol==='https:'?'https://d.line-scdn.net':'http://d.line-cdn.net';
+  var s=d.createElement('script');s.async=1;
+  s.src=o||h+'/n/line_tag/public/release/v1/lt.js';
+  var t=d.getElementsByTagName('script')[0];t.parentNode.insertBefore(s,t);
+    })(window, document);
+_lt('init', {
+  customerType: 'account',
+  tagId: '1624ca3c-926a-47ee-a8b0-c5ffc356a4e4'
+});
+_lt('send', 'pv', ['1624ca3c-926a-47ee-a8b0-c5ffc356a4e4']);
+</script>
+<noscript>
+  <img height="1" width="1" style="display:none"
+       src="https://tr.line.me/tag.gif?c_t=lap&t_id=1624ca3c-926a-47ee-a8b0-c5ffc356a4e4&e=pv&noscript=1" />
+</noscript>
+<!-- End LINE Tag Base Code -->
+            
+</head>
+
+    <body class="gantry site com_gantry5 view-custom no-layout no-task dir-ltr itemid-125 outline-17 g-offcanvas-left g-home-particles g-style-preset3">
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGZ27CN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<button onclick="topFunction()" id="Btn" title="Go to top"><i class="fa fa-angle-up" aria-hidden="true"></i></button>
+                    
+
+        <div id="g-offcanvas"  class="Boxed" data-g-offcanvas-swipe="1" data-g-offcanvas-css3="1">
+                        <div class="g-grid Boxed">                        
+
+        <div class="g-block size-100">
+             <div id="mobile-menu-7084-particle" class="g-content g-particle">            <div id="g-mobilemenu-container" data-g-menu-breakpoint="51rem"></div>
+            </div>
+        </div>
+            </div>
+    </div>
+        <div id="g-page-surround">
+            <div class="g-offcanvas-hide g-offcanvas-toggle" role="navigation" data-offcanvas-toggle aria-controls="g-offcanvas" aria-expanded="false"><i class="fa fa-fw fa-bars"></i></div>                        
+
+                                            
+                <section id="g-top" class="g-default-top section-horizontal-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-system-messages">
+                                            
+            
+    </div>
+        </div>
+            </div>
+            
+    </section>
+                                        
+                <section id="g-navigation" class="g-default-navigation">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-15">
+             <div id="logo-9199-particle" class="g-content g-particle">            <a href="/" target="_self" title="หน้าแรก" aria-label="หน้าแรก" rel="home" class="g-logo">
+                        <img src="/images/icon/sigma-bk.png" style="max-height: 60px" alt="หน้าแรก" />
+            </a>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-85">
+             <div id="menu-2979-particle" class="g-content g-particle">            <nav class="g-main-nav" data-g-mobile-target data-g-hover-expand="true">
+        <ul class="g-toplevel">
+                                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-126 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/กล่องจั่วปัง">
+                                                <i class="fa fa-cube" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องจั่วปัง</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-147  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/กล่องจั่วปัง/จั่วปังคืออะไร">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">จั่วปังคืออะไร</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-148  ">
+                            <a class="g-menu-item-container" href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">วัสดุหุ้ม</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-149  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">ตัวล็อคสินค้า</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-161  ">
+                            <a class="g-menu-item-container" href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">เทคนิคพิเศษ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-162  ">
+                            <a class="g-menu-item-container" href="/กล่องจั่วปัง/ของตกแต่ง">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">ของตกแต่ง</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-202 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="/สินค้าของเรา">
+                                                <i class="fa fa-cubes" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">สินค้าของเรา</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-100">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-186  ">
+                            <a class="g-menu-item-container" href="/landing5" title="กล่องสำเร็จรูปพร้อมส่งไม่มีขั้นต่ำ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องสำเร็จรูป (ขายปลีก 1 ใบ)</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-187  ">
+                            <a class="g-menu-item-container" href="/landing3" title="กล่องปั๊มฟอยล์หรือพิมพ์ลาย ขั้นต่ำ 50 ใบขึ้นไป">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องกึ่งสำเร็จรูป (มีขอบดำ ใส่โลโก้ได้ 50 ใบขึ้นไป)</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-194  ">
+                            <a class="g-menu-item-container" href="/size_ready" title="กล่องทรงสำเร็จเปลี่ยนสีหุ้มและปั๊มฟอยล์ได้">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องไซส์สำเร็จ (ทรงตามกำหนด ใส่โลโก้ได้ 100 ใบขึ้นไป)</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-196  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/สินค้าของเรา/กล่องสั่งทำทรงมาตรฐาน" title="กล่องสั่งทำ 12 ทรงมาตรฐาน">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องสั่งทำทรงมาตรฐาน (300 ใบขึ้นไป)</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-url g-menu-item-195  ">
+                            <a class="g-menu-item-container" href="/landing2" title="กล่องพรีเมียมตามใจคุณ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องสั่งทำพิเศษ (500 ใบขึ้นไป)</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-127 g-parent g-fullwidth g-menu-item-link-parent " style="position: relative;">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/ทรงกล่องมาตรฐาน">
+                                                <i class="fa fa-tags" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">ทรงกล่องมาตรฐาน</span>
+            
+                    </span>
+                    <span class="g-menu-parent-indicator" data-g-menuparent=""></span>                            </a>
+                                                                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right" style="width:500px;" data-g-item-width="500px">
+            <li class="g-dropdown-column">
+                        <div class="g-grid">
+                        <div class="g-block size-50">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-132  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องฝาครอบเต็มใบ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องฝาครอบเต็มใบ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-154  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องฝาครอบไม่เต็มใบ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องฝาครอบไม่เต็มใบ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-142  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องมีแผ่นฐาน">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องมีแผ่นฐาน</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-139  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องมีกล่องฐาน">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องมีกล่องฐาน</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-138  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องมีบ่า">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องมีบ่า</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-160  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องโชว์บ่า">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องโชว์บ่า</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-140  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องฝาเปิดหนังสือ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องฝาเปิดหนังสือ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-143  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องแม่เหล็ก">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องแม่เหล็ก</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+                <div class="g-block size-50">
+            <ul class="g-sublevel">
+                <li class="g-level-1 g-go-back">
+                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                </li>
+                                                                                                                    
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-141  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องปลอกไม้ขีด">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องปลอกไม้ขีด</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-144  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องปลอกหนังสือ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องปลอกหนังสือ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-129  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/ทรงกล่องมาตรฐาน/กล่องลิ้นชัก">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องลิ้นชัก</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-145  ">
+                            <a class="g-menu-item-container" href="/ทรงกล่องมาตรฐาน/กล่องกระบะ">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">กล่องกระบะ</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+            </ul>
+        </div>
+            </div>
+
+            </li>
+        </ul>
+            </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-137 g-standard  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/ตัวอย่างสินค้า">
+                                                <i class="fa fa-list-ul" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">ตัวอย่างสินค้า</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-133 g-standard  ">
+                            <a class="g-menu-item-container" href="/คำถามที่พบบ่อย">
+                                                <i class="fa fa-question-circle" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">คำถามที่พบบ่อย</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                                
+        
+                
+        
+                
+        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-128 g-standard  ">
+                            <a class="g-menu-item-container" href="https://bugussobox.com/ติดต่อเรา">
+                                                <i class="fa fa-feed" aria-hidden="true"></i>
+                                                    <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">ติดต่อเรา</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+        </ul>
+    </nav>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+                                    
+                                
+    
+    
+                <section id="g-container-header" class="g-wrapper">
+                            <div class="g-grid">                        
+
+        <div class="g-block size-30">
+             <section id="g-sidebar-top" class="expand-sidebar-bg section-horizontal-paddings">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100 box2 nomarginall">
+             <div id="cards-8168-particle" class="g-content g-particle">            <div class="g-cards  g-cards-columns-1">
+
+    
+        <div class="g-cards-subcontent-block">
+                <div class="g-cards-subcontent-title">
+            กล่องจั่วปังพรีเมียม
+        </div>
+        
+                <div class="g-cards-subcontent-headline">
+            BugussoBox
+        </div>
+        
+                <div class="g-cards-subcontent-description">
+            <div align="justify">
+<br><p>
+เราคือ ผู้ผลิตบรรจุภัณฑ์กล่องกระดาษจั่วปังคุณภาพสูง เราควบคุมคุณภาพในกระบวนการผลิตทุกขั้นตอน เพื่อให้คุณมั่นใจได้ว่าเราจะส่งมอบงานที่สวยงามและมีคุณภาพให้คุณเสมอ</p><br>
+<p>We are Premium quality Rigid box manufacturer in Thailand. We adhere to the quality control in production process to achieve the beautiful work. Customers will be assured that we always deliver quality work to your hands.</p>
+</div>
+        </div>
+        
+            </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+        </div>
+                    
+
+        <div class="g-block size-70">
+             <section id="g-slideshow" class="fp-slideshow section-horizontal-paddings g-flushed">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-100 nomarginall nopaddingall">
+             <div id="newsslider-7768-particle" class="g-content g-particle">            <div id="newsslider-7768" class="g-newsslider " data-newsslider-id="newsslider-7768" data-newsslider-items="" data-newsslider-rtl="false" >
+        <div class="g-newsslider-slides g-owlcarousel owl-carousel" data-newsslider-slides-id="newsslider-7768">
+
+            
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/box1.JPG)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องฝาครอบเต็มใบ">
+                                    กล่องฝาครอบเต็มใบ
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/exmp/duc-cut.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องฝาครอบไม่เต็มใบ">
+                                    กล่องฝาครอบไม่เต็มใบ
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/IMG_6772.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องมีบ่า">
+                                    กล่องฝาครอบมีบ่า
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/IMG_20353.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องโชว์บ่า">
+                                    กล่องฝาครอบโชว์บ่า
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/citra-flip.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องมีแผ่นฐาน">
+                                    กล่องมีแผ่นฐาน
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/bugussobox/slide/IMG_18272.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องมีกล่องฐาน">
+                                    กล่องมีกล่องฐาน
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/2019-02.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องปลอกหนังสือ">
+                                    กล่องปลอกหนังสือ
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/exmp/26.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องปลอกไม้ขีด">
+                                    กล่องปลอกไม้ขีด
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/20180822_1120372.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องลิ้นชัก">
+                                    กล่องลิ้นชัก
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/book.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องฝาเปิดหนังสือ">
+                                    กล่องฝาเปิดหนังสือ
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/extra/IMG_20180828_115549.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องแม่เหล็ก">
+                                    กล่องฝาเปิดแม่เหล็ก
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                                                            <div class="g-newsslider-slides-item-image" style="background-image: url(/images/exmp/box.jpg)">
+                    
+                    
+                    <div class="g-newsslider-slides-item-content">
+                                                    <div class="g-newsslider-slides-item-title">
+                                <a href="/ทรงกล่องมาตรฐาน/กล่องกระบะ">
+                                    กล่องกระบะ
+                                </a>
+                            </div>
+                        
+                                            </div>
+                </div>
+                
+            
+        </div>
+        <div class="g-newsslider-carousel" data-newsslider-carousel-id="newsslider-7768" style="height: 495px;">
+
+            
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/box1.JPG" width="1024" height="918" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาครอบเต็มใบ
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/exmp/duc-cut.jpg" width="809" height="768" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาครอบไม่เต็มใบ
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/IMG_6772.jpg" width="1600" height="1488" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาครอบมีบ่า
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/IMG_20353.jpg" width="1363" height="1124" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาครอบโชว์บ่า
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/citra-flip.jpg" width="789" height="690" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องมีแผ่นฐาน
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/bugussobox/slide/IMG_18272.jpg" width="1033" height="853" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องมีกล่องฐาน
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/2019-02.jpg" width="1024" height="768" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องปลอกหนังสือ
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/exmp/26.jpg" width="1024" height="768" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องปลอกไม้ขีด
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/20180822_1120372.jpg" width="1024" height="768" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องลิ้นชัก
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/book.jpg" width="889" height="667" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาเปิดหนังสือ
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/extra/IMG_20180828_115549.jpg" width="1024" height="768" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องฝาเปิดแม่เหล็ก
+                                </div>
+                                                    </div>
+                    </div>
+                                    <div class="g-newsslider-carousel-item-container">
+                                                    <img src="/images/exmp/box.jpg" width="1024" height="1024" />
+                        
+                        <div class="g-newsslider-carousel-item-content">
+                                                            <div class="g-newsslider-carousel-item-title">
+                                    กล่องกระบะ
+                                </div>
+                                                    </div>
+                    </div>
+                
+            
+        </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            </div>
+        
+    </section>
+        </div>
+            </div>
+    
+    </section>
+    
+                                    
+                                
+    
+    
+                <section id="g-container-main" class="g-wrapper">
+                            <div class="g-grid">                        
+
+        <div class="g-block size-30">
+             <section id="g-sidebar" class="expand-sidebar-bg">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="videocarousel-2615-particle" class="g-content g-particle">            <div class=" g-owlcarousel-video-carousel">
+
+        <div class="g-owlcarousel-video-carousel-header">
+            <h2 class="g-title">กล่องสั่งทำพิเศษ</h2>
+            <ul class="g-video-carousel-dots owl-dots"></ul>
+        </div>
+
+        <div class="g-video-carousel-description">กล่องรูปแบบพิเศษ</div>
+        <div id="g-video-carousel-videocarousel-2615" class="g-video-carousel owl-carousel">
+
+                            <div class="g-video-carousel-inner">
+                    <div id="g-videocarousel-2615-1" data-g-video-carousel-id="g-videocarousel-2615-1" class="g-video-carousel-video">
+
+                                                                        
+                                                
+                            <!-- START Fast & Agile YouTube Embed by Schoberg.net -->
+                            <div class="g-video-carousel-youtube" id="86f-yPmBeZY" data-params="showinfo=0&amp;autoplay=0&amp;controls=1&amp;loop=1"></div>
+                            <!-- END Fast & Agile YouTube Embed by Schoberg.net -->
+
+                                                
+                                                                        
+                                                                        
+                    </div>
+                                                                <div class="g-video-carousel-caption">กล่องซีดี 1</div>
+                                                        </div>
+                            <div class="g-video-carousel-inner">
+                    <div id="g-videocarousel-2615-2" data-g-video-carousel-id="g-videocarousel-2615-2" class="g-video-carousel-video">
+
+                                                                        
+                                                
+                            <!-- START Fast & Agile YouTube Embed by Schoberg.net -->
+                            <div class="g-video-carousel-youtube" id="q3uhvv_cOVI" data-params="showinfo=0&amp;autoplay=0&amp;controls=0&amp;loop=1"></div>
+                            <!-- END Fast & Agile YouTube Embed by Schoberg.net -->
+
+                                                
+                                                                        
+                                                                        
+                    </div>
+                                                                <div class="g-video-carousel-caption">กล่องซีดี 2</div>
+                                                        </div>
+                            <div class="g-video-carousel-inner">
+                    <div id="g-videocarousel-2615-3" data-g-video-carousel-id="g-videocarousel-2615-3" class="g-video-carousel-video">
+
+                                                                        
+                                                
+                            <!-- START Fast & Agile YouTube Embed by Schoberg.net -->
+                            <div class="g-video-carousel-youtube" id="DnYwjlL42v4" data-params="showinfo=0&amp;autoplay=0&amp;controls=0&amp;loop=1"></div>
+                            <!-- END Fast & Agile YouTube Embed by Schoberg.net -->
+
+                                                
+                                                                        
+                                                                        
+                    </div>
+                                                                <div class="g-video-carousel-caption">กล่องซีดี 3</div>
+                                                        </div>
+                            <div class="g-video-carousel-inner">
+                    <div id="g-videocarousel-2615-4" data-g-video-carousel-id="g-videocarousel-2615-4" class="g-video-carousel-video">
+
+                                                                        
+                                                
+                            <!-- START Fast & Agile YouTube Embed by Schoberg.net -->
+                            <div class="g-video-carousel-youtube" id="4px4QGsEwgI" data-params="showinfo=0&amp;autoplay=0&amp;controls=1&amp;loop=1"></div>
+                            <!-- END Fast & Agile YouTube Embed by Schoberg.net -->
+
+                                                
+                                                                        
+                                                                        
+                    </div>
+                                                                <div class="g-video-carousel-caption">กล่องบราวนี่ 1</div>
+                                                        </div>
+                            <div class="g-video-carousel-inner">
+                    <div id="g-videocarousel-2615-5" data-g-video-carousel-id="g-videocarousel-2615-5" class="g-video-carousel-video">
+
+                                                                        
+                                                
+                            <!-- START Fast & Agile YouTube Embed by Schoberg.net -->
+                            <div class="g-video-carousel-youtube" id="iu5ctpio5ng" data-params="showinfo=0&amp;autoplay=0&amp;controls=1&amp;loop=1"></div>
+                            <!-- END Fast & Agile YouTube Embed by Schoberg.net -->
+
+                                                
+                                                                        
+                                                                        
+                    </div>
+                                                                <div class="g-video-carousel-caption">กล่องบราวนี่ 2</div>
+                                                        </div>
+            
+        </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </section>
+        </div>
+                    
+
+        <div class="g-block size-50">
+             <header id="g-header" class="fp-header">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="articletabs-6480-particle" class="g-content g-particle">            <div class="g-articletabs ">
+
+        
+        <div id="articletabs-6480" data-articletabs-id="articletabs-6480">
+            <ul>
+                                    <li><a href="#tab-articletabs-6480-0">วัสดุหุ้ม</a></li>
+                                    <li><a href="#tab-articletabs-6480-1">ตัวล็อคสินค้า</a></li>
+                                    <li><a href="#tab-articletabs-6480-2">เทคนิคพิเศษ</a></li>
+                                    <li><a href="#tab-articletabs-6480-3">ของตกแต่ง</a></li>
+                            </ul>
+
+                            <div id="tab-articletabs-6480-0">
+                                                <div class="g-articletabs-columns">
+
+                                    <div class="g-articletabs-column-first">
+                    <div class="g-articletabs-item">
+                                                    <div class="g-articletabs-item-image">
+                                <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                    <img src="/images/bugussobox/covermaterials.jpg" width="860" height="599" />
+                                </a>
+                            </div>
+                        
+                        
+                                                    <div class="g-articletabs-item-title">
+                                <h3 class="g-item-title">
+                                    <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                        กระดาษอัดลาย
+                                    </a>
+                                </h3>
+                            </div>
+                        
+                        
+                    </div>
+                </div>
+                                                                                
+        <div class="g-articletabs-column-second">
+
+                                                                            <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                        <img src="/images/bugussobox/art.jpg" width="1024" height="716" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                            กระดาษอาร์ตพิมพ์ลาย
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                        <img src="/images/bugussobox/ki.jpg" width="1024" height="768" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                            กระดาษรีไซเคิล
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                        <img src="/images/extra/metallic.jpg" width="1024" height="768" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/วัสดุหุ้ม">
+                                            กระดาษพิเศษ
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                            
+        </div>
+    </div>
+
+                                    </div>
+                            <div id="tab-articletabs-6480-1">
+                                                <div class="g-articletabs-columns">
+
+                                    <div class="g-articletabs-column-first">
+                    <div class="g-articletabs-item">
+                                                    <div class="g-articletabs-item-image">
+                                <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                    <img src="/images/extra/27.jpg" width="1024" height="683" />
+                                </a>
+                            </div>
+                        
+                        
+                                                    <div class="g-articletabs-item-title">
+                                <h3 class="g-item-title">
+                                    <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                        โฟม eva
+                                    </a>
+                                </h3>
+                            </div>
+                        
+                        
+                    </div>
+                </div>
+                                                                                
+        <div class="g-articletabs-column-second">
+
+                                                                            <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                        <img src="/images/extra/sponge.JPG" width="1024" height="683" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                            ฟองน้ำ
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                        <img src="/images/extra/IMG_2246.JPG" width="1024" height="768" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                            กระดาษอาร์ตการ์ด
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                        <img src="/images/extra/cardbed.JPG" width="800" height="600" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ตัวล็อคสินค้า">
+                                            ตั่งกระดาษแข็ง
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                            
+        </div>
+    </div>
+
+                                    </div>
+                            <div id="tab-articletabs-6480-2">
+                                                <div class="g-articletabs-columns">
+
+                                    <div class="g-articletabs-column-first">
+                    <div class="g-articletabs-item">
+                                                    <div class="g-articletabs-item-image">
+                                <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                    <img src="/images/extra/IMG_2382.JPG" width="1024" height="768" />
+                                </a>
+                            </div>
+                        
+                        
+                                                    <div class="g-articletabs-item-title">
+                                <h3 class="g-item-title">
+                                    <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                        ปั๊มฟอยล์
+                                    </a>
+                                </h3>
+                            </div>
+                        
+                        
+                    </div>
+                </div>
+                                                                                
+        <div class="g-articletabs-column-second">
+
+                                                                            <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                        <img src="/images/exmp/20180426_093908.jpg" width="1024" height="768" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                            ปั๊มนูน/จม
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                        <img src="/images/extra/20180821_160634.jpg" width="1024" height="576" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                            เคลือบเงา / ด้าน
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                        <img src="/images/extra/IMG_2603.JPG" width="1024" height="576" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/เทคนิคพิเศษ">
+                                            เจาะหน้าต่าง/ฉลุลาย
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                            
+        </div>
+    </div>
+
+                                    </div>
+                            <div id="tab-articletabs-6480-3">
+                                                <div class="g-articletabs-columns">
+
+                                    <div class="g-articletabs-column-first">
+                    <div class="g-articletabs-item">
+                                                    <div class="g-articletabs-item-image">
+                                <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                    <img src="/images/extra/IMG_2040.JPG" width="1024" height="683" />
+                                </a>
+                            </div>
+                        
+                        
+                                                    <div class="g-articletabs-item-title">
+                                <h3 class="g-item-title">
+                                    <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                        ผ้าต่วน
+                                    </a>
+                                </h3>
+                            </div>
+                        
+                        
+                    </div>
+                </div>
+                                                                                
+        <div class="g-articletabs-column-second">
+
+                                                                            <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                        <img src="/images/extra/IMG_1931.JPG" width="1024" height="683" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                            พู่
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                        <img src="/images/extra/20180822_112037.jpg" width="1024" height="686" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                            ริ้บบิ้น
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                                                                <div class="g-articletabs-item">
+
+                        <div class="g-articletabs-item-imagecontainer">
+                                                            <div class="g-articletabs-item-image">
+                                    <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                        <img src="/images/extra/2019-04.jpg" width="1024" height="685" />
+                                    </a>
+                                </div>
+                                                    </div>
+
+                        <div class="g-articletabs-item-content">
+                                                            <div class="g-articletabs-item-title">
+                                    <h3 class="g-item-title">
+                                        <a href="/กล่องจั่วปัง/ของตกแต่ง">
+                                            หูหิ้ว
+                                        </a>
+                                    </h3>
+                                </div>
+                            
+                            
+                                                    </div>
+                    </div>
+                            
+        </div>
+    </div>
+
+                                    </div>
+            
+        </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </header>
+        </div>
+                    
+
+        <div class="g-block size-20">
+             <aside id="g-aside" class="fp-aside">
+                                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="authorslist-1084-particle" class="g-content g-particle">            <div id="g-authorslist-1084" class="g-authorslist ">
+        <h2 class="g-title">เพื่อนบ้านของเรา</h2>
+        <div class="g-authorslist-pretext">
+            <a href="http://www.layout2book.com" target="_blank"><img src="/images/bugussobox/layout2.png" title="รับจัดหน้าหนังสือ"></a>
+<br>
+<br><a href="https://www.facebook.com/Bugussobox" target="_blank"><img src="/images/bugussobox/fb-bgs-banner.jpg" title="กล่องกึ่งสำเร็จรูป"></a>
+<br>
+<br>
+<a href="https://shopee.co.th/bugussobox/" target="_blank"><img src="/images/bugussobox/bestbox2u.png" title="กล่องสำเร็จรูป ขายปลีก ส่งและสั่งทำ"></a>
+        </div>
+
+        <div class="g-authorslist-authors-wrapper">
+                    </div>
+
+        <div class="g-authorslist-posttext">
+            
+        </div>
+    </div>
+            </div>
+        </div>
+            </div>
+            
+    </aside>
+        </div>
+            </div>
+    
+    </section>
+    
+                                                    
+                <footer id="g-footer">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-100 center">
+             <div id="branding-6913-particle" class="g-content g-particle">            <div class="g-branding ">
+    <a href="https://shopee.co.th/bugussobox" target="_blank"><img src="/images/icon/shopee_logo.png" class="iconbtn" title="shopee bugussobox" style="width:40px"></a>
+
+<a href="https://www.facebook.com/bestbox2you" target="_blank"><img src="/images/icon/fb.png" class="iconbtn" title="FB Page: Bugussobox" style="width:40px"></a>
+
+<a href="https://lin.ee/xd5mLz1" target="_blank"><img src="/images/icon/line.png" class="iconbtn" title="Line ID: @bugussobox" style="width:40px"></a>
+
+<a href="tel:0660800233" target="_blank"><img src="/images/icon/tel.png" class="iconbtn" title="tel.066-080-0233" style="width:40px"></a>
+<p>&copy; Copyright 2019 by <a href="/ติดต่อเรา" target="_blank">Sun Soft Tech</a> All rights reserved.</p>
+</div>
+            </div>
+        </div>
+            </div>
+            </div>
+        
+    </footer>
+                                
+                        
+
+        </div>
+                    
+
+                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js"></script>
+    <script type="text/javascript" src="/media/gantry5/assets/js/lightcase.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/custom/uikit/js/uikit.min.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/js/jquery.matchHeight-min.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/js/jquery.mThumbnailScroller.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/js/owlcarousel.js"></script>
+    <script type="text/javascript">jQuery(document).ready(function($) { jQuery('[data-rel^=lightcase]').lightcase({maxWidth: '100%', maxHeight: '100%', video: {width: '1280', height: '720'}}); });</script>
+    <script type="text/javascript">
+        // User Section
+        var myElement = document.querySelector("#g-navigation");
+        var headroom  = new Headroom(myElement, {
+            "offset": 0,
+            "tolerance": 0,
+            // Custom CSS Classes
+            classes : {
+                // when element is initialised
+                initial : "headroom-bg-section",
+                // when scrolling up
+                pinned : "headroom--pinned",
+                // when scrolling down
+                unpinned : "headroom--unpinned-autohide",
+                // when above offset
+                top : "headroom--top",
+                // when below offset
+                notTop : "headroom--not-top",
+                // when at bottom of scoll area
+                bottom : "headroom--bottom",
+                // when not at bottom of scroll area
+                notBottom : "headroom--not-bottom"
+            }
+        });
+        headroom.init();
+    </script>
+    <script type="text/javascript">    (function () {
+        var options = {
+            line: "//lin.ee/xd5mLz1", // Line QR code URL
+            call: "0660800233", // Call phone number
+            call_to_action: "ติดต่อเรา", // Call to action
+            button_color: "#000000", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+            order: "call,line", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();</script>
+    <script type="text/javascript" src="/templates/rt_notio/js/newsslider.init.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/js/videocarousel.init.js"></script>
+    <script type="text/javascript">
+        jQuery(window).load(function() {
+            var owlvideocarousel_2615 = jQuery('#g-video-carousel-videocarousel-2615');
+            owlvideocarousel_2615.owlCarousel({
+                center: false,
+                rtl: false,
+                                animateOut: 'fadeOut',
+                                                animateIn: 'fadeIn',
+                                                nav: false,
+                                dots: true,
+                dotsContainer: '.g-video-carousel-dots',
+                loop: false,
+                                autoplay: false,
+                                responsive: {
+                    0: {
+                        items: 1,
+                    },
+                    1500: {
+                        items: 2,
+                    },
+                },
+            });
+
+            jQuery('.g-video-carousel-dots .owl-dot').click(function() {
+                owlvideocarousel_2615.trigger('to.owl.carousel', [jQuery(this).index(), 300]);
+            });
+        });
+    </script>
+    <script type="text/javascript" src="/templates/rt_notio/js/jquery.responsiveTabs.js"></script>
+    <script type="text/javascript" src="/templates/rt_notio/js/articletabs.init.js"></script>
+    
+
+    
+
+        
+    </body>
+</html>
